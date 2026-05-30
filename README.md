@@ -4,6 +4,8 @@
 
 ### Real-time Indian Sign Language Detection using TensorFlow + MediaPipe
 
+<img width="1919" height="1020" alt="isl" src="https://github.com/user-attachments/assets/dd620bc4-ce32-4fbc-a6e3-dc89a20b8aa5" />
+
 
 
 **Developed by [Ravi Roshan](https://www.linkedin.com/in/ravi-roshan-710105347)**
@@ -200,7 +202,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 Made with ❤️ by **Ravi Roshan**
 
 ⭐ Star this repo if you found it helpful!
-<img width="1919" height="1020" alt="isl" src="https://github.com/user-attachments/assets/dd620bc4-ce32-4fbc-a6e3-dc89a20b8aa5" />
+
 
 
 
